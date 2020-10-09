@@ -9,6 +9,7 @@ Studying Python (Korean)
  
 2. ?
 
+---
 ## 참고문헌
 - [파이썬 공식 문서 (Python 3.7.4 document)](https://docs.python.org/3/index.html)
 - [An Introduction to Python](http://tdc-www.harvard.edu/Python.pdf)
